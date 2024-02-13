@@ -22,14 +22,14 @@ Hi, I'm Jonathan Arroyave!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of caldas
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 Self-taught Full Stack Developer and aspiring Machine Learning Engineer
+📚 Pursuing a degree in Systems and Computer Engineering at the University of Caldas
+📝 Strong interest in Data Science, Machine Learning, and Backend Development
+🔭 Currently diving deep into Machine Learning and Java Development
+🌱 Exploring the realms of Computer Vision and SQL
+🌟 Proficient in Java, Python, TypeScript, JavaScript, and SQL
+🚩 Passionate about crafting Full Stack Machine Learning Applications
+🤔 Currently seeking opportunities for <b>Internship</b> or a new <b>job role</b>. Check out <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 
