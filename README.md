@@ -15,7 +15,7 @@ Hi, I'm Jonathan Arroyave!
 <br/>
 <p align="center">
 	<a href="https://github.com/JonathanArroyaveGonzalez">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+And+Systems+Engineer+Student;Backend+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=480&height=45">
 	</a>
 </p>
 
@@ -29,16 +29,16 @@ Hi, I'm Jonathan Arroyave!
 🌱 Exploring the realms of Computer Vision and SQL
 🌟 Proficient in Java, Python, TypeScript, JavaScript, and SQL
 🚩 Passionate about crafting Full Stack Machine Learning Applications
-🤔 Currently seeking opportunities for <b>Internship</b> or a new <b>job role</b>. Check out <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME</a>.
+🤔 Currently seeking opportunities for <b>Internship</b> or a new <b>job role</b>. Check out <a href="https://drive.google.com/file/d/1HYp4tsN48fg4q8cHKtCa7udhPT8ROTE70w/view?usp=sharing345" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:arroyave3000g@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/jonathan-arroyave-developer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/JonathanArroyaveGonzalez"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://github.com/JonathanArroyaveGonzalez"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+	<a href="mailto:arroyave3000g@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-arroyave-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/JonathanArroyaveGonzalez"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -46,27 +46,32 @@ Hi, I'm Jonathan Arroyave!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <a href='' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white'/></a>
+	<a href='' target="_blank"><img alt='Java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/></a>
+    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge"></a>
+	<a href="https://github.com/JonathanArroyaveGonzalez"><img alt="typescript" src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+<a href='https://github.com/JonathanArroyaveGonzalez' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat'/></a>
     <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat"></a>
+	<a href="https://github.com/JonathanArroyaveGonzalez"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat"></a>
+    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Loopback" src="https://img.shields.io/badge/LoopBack-3F5DFF?logo=loopback&logoColor=fff&style=flat"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Database managers and Cloud Hosting
 
 <p>
     <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat"></a>
+	<a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat"></a>
+	<a href="https://github.com/JonathanArroyaveGonzalez"><img alt="Mongo" src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat"></a>
+</p>
 </p>
 
 ### 💻 Software and Tools
