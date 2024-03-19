@@ -87,11 +87,6 @@ Hi, I'm Jonathan Arroyave!
 </p>
 </br>
 
-
-
-
-## <a href="https://github.com/JonathanArroyaveGonzalez"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
 <br/>
 <summary><b>⚡ Jonathan Arroyave</b></summary>
 <br/>
@@ -103,16 +98,10 @@ Hi, I'm Jonathan Arroyave!
 	<br/>
 </p>
 <br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
+
+
 <br/>
-<p align="center">
-	<a href="https://github.com/JonathanArroyaveGonzalez">
-		<img src="https://activity-graph.herokuapp.com/graph?username=JonathanArroyaveGonzalez&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
--->
+
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
