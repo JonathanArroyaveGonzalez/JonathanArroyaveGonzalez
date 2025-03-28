@@ -35,8 +35,8 @@ Hi, I'm Jonathan Arroyave!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:arroyave3000g@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/jonathan-arroyave-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:jonathanArroyavedev@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="www.linkedin.com/in/jonathan-arroyave-gonzález-a1531a359"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/JonathanArroyaveGonzalez"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	
 </p>
@@ -121,9 +121,9 @@ Hi, I'm Jonathan Arroyave!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:arroyave3000g@@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:jonathanArroyavedev@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/jonathan-arroyave-developer/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="www.linkedin.com/in/jonathan-arroyave-gonzález-a1531a359">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
