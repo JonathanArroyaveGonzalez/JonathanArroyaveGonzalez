@@ -29,7 +29,7 @@ Hi, I'm Jonathan Arroyave!
 🌱 Exploring the realms of Computer Vision and SQL
 🌟 Proficient in Java, Python, TypeScript, JavaScript, and SQL
 🚩 Passionate about crafting Full Stack Machine Learning Applications
-🤔 Currently seeking opportunities for <b>Internship</b> or a new <b>job role</b>. Check out <a href="https://drive.google.com/file/d/1HYp4tsN48fg4q8cHKtCa7udhPT8ROTE70w/view?usp=sharing345" target="_blank">MY RESUME</a>.
+🤔 Currently seeking opportunities for <b>Internship</b> or a new <b>job role</b>. Check out <a href="https://vitae-jonathan-dev.tiiny.site/" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 
